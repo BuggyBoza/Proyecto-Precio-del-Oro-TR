@@ -25,7 +25,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2Y
 ## ⚙️ Tecnologías Utilizadas
 
 - Python (extracción y actualización de datos)
-- Power BI (visualización de datos)
+- Microsoft Power BI (visualización de datos y desarrollo de KPIs con DAX)
 - Microsoft Power BI Service (Actualización del dashboard)
 - CSV Dataset
 - Scripts de automatización Batch (Actualización de Datos)
