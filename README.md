@@ -43,10 +43,10 @@ https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2Y
 
 ## 📊 Funcionalidades del Dashboard
 
-- Análisis histórico del precio del oro.
-- Visualización de tendencias del mercado.
-- Exploración dinámica mediante filtros.
-- Seguimiento del precio del oro en tiempo real.
+- Análisis de estadísticas históricas de los futuros del oro, incluyendo precio inicial, precio final, volatilidad y detección de periodos con mayor apreciación y mayor caída del mercado.
+- Cálculo dinámico de métricas financieras por periodo, como rendimiento acumulado, drawdown máximo y volatilidad, en función del rango temporal seleccionado.
+- Exploración temporal interactiva, mediante segmentaciones por año y mes para evaluar el comportamiento de los futuros del oro en distintos horizontes de análisis.
+- Cálculo de KPIs financieros mediante DAX y visualización interactiva en Microsoft Power BI para facilitar el análisis del mercado.
 
 ---
 
