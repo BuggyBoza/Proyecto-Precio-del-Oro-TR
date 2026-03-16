@@ -9,7 +9,7 @@ A través de visualizaciones dinámicas y filtros interactivos, el dashboard fac
 
 Explora el dashboard interactivo desarrollado en Power BI en el siguiente enlace:
 
-🔗 **Ver Dashboard:**  
+🔗 **Ver Dashboard (el dashboard sin costo no permite actualizar la información en tiempo real por lo que solo se puede evidenciar el proyecto origina:**  
 https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2YjNhMTRiIiwidCI6IjJlYTllZjkzLTk0ZjItNGI1ZC05YTA1LTdmYWU4MzgwYzJiZiIsImMiOjR9
 
 ---
@@ -20,6 +20,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2Y
 - Implementar modelado de datos y medidas en DAX para el cálculo de KPIs.
 - Automatizar la extracción y actualización de datos desde fuentes web públicas sin servicios de pago.
 - Facilitar el análisis temporal mediante filtros y visualizaciones interactivas.
+- Actualizar diariamente el dashboard publicado en Microsoft Power BI Service (en línea), sincronizando los datos desde el entorno local.
 
 ---
 
@@ -52,5 +53,5 @@ https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2Y
 
 ## 👨‍💻 Autor
 
-**Fernando Chávez**  
+**Luis Fernando Chávez Boza**  
 Proyecto de análisis de datos y visualización financiera.
