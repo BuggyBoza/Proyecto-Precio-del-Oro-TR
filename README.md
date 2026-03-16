@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="dashboard_oro.png" width="900">
-</p>
-
-# 📈 Precio del Oro en Tiempo Real
-
-Dashboard interactivo desarrollado en **Power BI** que analiza la evolución del precio del oro desde el año 2000 hasta la actualidad, integrando datos históricos y actualizaciones automáticas para explorar tendencias, KPIs y comportamiento del mercado.
-
----
-
-## 🔎 Ver Dashboard Interactivo
-
-👉 **Abrir dashboard en Power BI**
-
-https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2YjNhMTRiIiwidCI6IjJlYTllZjkzLTk0ZjItNGI1ZC05YTA1LTdmYWU4MzgwYzJiZiIsImMiOjR9
+![Dashboard Precio del Oro](Imagen_resumen.png)
 # 📈 Precio del Oro en Tiempo Real (2000 - Actualidad)
 
 Dashboard interactivo desarrollado en **Power BI**, utilizando modelado de datos y medidas avanzadas en **DAX**, diseñado para analizar la evolución del **precio del oro desde el año 2000 hasta la actualidad**. 
