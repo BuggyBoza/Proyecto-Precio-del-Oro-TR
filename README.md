@@ -3,7 +3,7 @@
 
 Dashboard interactivo desarrollado en Microsoft Power BI, basado en modelado de datos y medidas avanzadas en DAX, para analizar la evolución del precio del oro desde el año 2000 hasta la actualidad.
 
-Integra datos históricos con procesos de extracción y actualización automatizada, permitiendo mantener el dashboard actualizado en Microsoft Power BI Service. A través de KPIs, visualizaciones dinámicas y filtros interactivos, facilita el análisis temporal del mercado del oro, la evaluación de rendimientos y la identificación de tendencias.
+Integra datos históricos con procesos de extracción y actualización automatizada con Windows (dispositivo local), permitiendo mantener el dashboard actualizado en Microsoft Power BI Service. A través de KPIs, visualizaciones dinámicas y filtros interactivos, facilita el análisis temporal del mercado del oro, la evaluación de rendimientos y la identificación de tendencias.
 
 Explora el dashboard interactivo desarrollado en Power BI en el siguiente enlace:
 
