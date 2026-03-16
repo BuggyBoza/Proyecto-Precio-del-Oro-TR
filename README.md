@@ -1,5 +1,5 @@
 ![Dashboard Precio del Oro](Imagen_resumen.png)
-# 📈 Precio del Oro en Tiempo Real (2000 - Actualidad)
+# 🪙 Precio del Oro Futuro en Tiempo Real (2000 - Actualidad)
 
 Dashboard interactivo desarrollado en **Power BI**, utilizando modelado de datos y medidas avanzadas en **DAX**, diseñado para analizar la evolución del **precio del oro desde el año 2000 hasta la actualidad**. 
 
