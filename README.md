@@ -11,8 +11,6 @@ A través de visualizaciones dinámicas y filtros interactivos, el dashboard fac
 
 ## 🎯 Objetivo del Proyecto
 
-El objetivo de este proyecto es analizar el comportamiento del precio del oro a lo largo del tiempo mediante visualizaciones interactivas que permitan:
-
 - Desarrollar un dashboard interactivo en Microsoft Power BI
 - Implementar modelado de datos y medidas en DAX para el cálculo de KPIs.
 - Automatizar la extracción y actualización de datos desde fuentes web públicas sin servicios de pago.
