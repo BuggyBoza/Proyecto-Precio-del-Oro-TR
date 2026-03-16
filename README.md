@@ -7,6 +7,11 @@ El proyecto integra datos históricos con procesos de actualización automatizad
 
 A través de visualizaciones dinámicas y filtros interactivos, el dashboard facilita el análisis del comportamiento del oro en distintos periodos, proporcionando una herramienta analítica que permite identificar patrones, evaluar fluctuaciones del mercado y apoyar la toma de decisiones basada en datos.
 
+Explora el dashboard interactivo desarrollado en Power BI en el siguiente enlace:
+
+🔗 **Ver Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiYTlkOWZjOWMtYjY1YS00MjU1LWJkYjgtYTI4Y2Y2YjNhMTRiIiwidCI6IjJlYTllZjkzLTk0ZjItNGI1ZC05YTA1LTdmYWU4MzgwYzJiZiIsImMiOjR9
+
 ---
 
 ## 🎯 Objetivo del Proyecto
